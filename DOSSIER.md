@@ -7,9 +7,16 @@
 ## Physiology
 - **FTP:** Unknown
 - **Resting Heart Rate:** 35 bpm
-- **Max Heart Rate:** 185 bpm
-- **LTHR:** 169 bpm
-- **Training Zones:** Intervals.icu default (HR-based)
+- **Max Heart Rate:** 187 bpm
+- **LTHR:** 170 bpm
+- ## Heart Rate Zones (Intervals.icu 7-zone)
+- Z1: 0–142 bpm
+- Z2: 143–151 bpm
+- Z3: 152–159 bpm
+- Z4: 160–168 bpm
+- Z5: 169–173 bpm
+- Z6: 174–178 bpm
+- Z7: 179–187 bpm
 
 ## Training Structure
 - **Weekly Hours:** ~10h
