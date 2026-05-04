@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T22:07:11.951822",
+  "generated_at": "2026-05-04T08:06:29.754850",
   "version": "3.106",
   "script_hash": "f323f1d6d720",
   "scan_hours": 72,
@@ -972,6 +972,36 @@
           "avg_hr": 127,
           "max_hr": 139,
           "avg_cadence": 85.82814,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i145210619",
+      "date": "2026-05-04",
+      "type": "Run",
+      "name": "\u5e02\u5ddd\u4e09\u90f7\u753a \u30e9\u30f3",
+      "interval_summary": [
+        "1x 28m2s 131bpm",
+        "1x 21s 136bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1682s@131bpm84rpm",
+          "duration_secs": 1682,
+          "avg_hr": 131,
+          "max_hr": 145,
+          "avg_cadence": 83.66409,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "21s@136bpm85rpm",
+          "duration_secs": 21,
+          "avg_hr": 136,
+          "max_hr": 138,
+          "avg_cadence": 84.61905,
           "zone": 1
         }
       ]
