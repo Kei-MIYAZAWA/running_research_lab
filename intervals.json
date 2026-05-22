@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T10:34:15.395329",
+  "generated_at": "2026-05-22T17:26:17.881318",
   "version": "3.106",
   "script_hash": "f323f1d6d720",
   "scan_hours": 72,
@@ -195,6 +195,44 @@
           "avg_hr": 138,
           "max_hr": 139,
           "avg_cadence": 83.35714,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i150540137",
+      "date": "2026-05-22",
+      "type": "Run",
+      "name": "Evening \u30e9\u30f3",
+      "interval_summary": [
+        "1x 27m25s 126bpm",
+        "1x 17s 128bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1645s@126bpm83rpm",
+          "duration_secs": 1645,
+          "avg_hr": 126,
+          "max_hr": 137,
+          "avg_cadence": 82.995125,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "17s@128bpm83rpm",
+          "duration_secs": 17,
+          "avg_hr": 128,
+          "max_hr": 130,
+          "avg_cadence": 83.47059,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 127,
+          "max_hr": 127,
+          "avg_cadence": 83.0,
           "zone": 1
         }
       ]
