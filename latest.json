@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-05-31T08:08:03.603355",
+    "last_updated": "2026-05-31T10:22:51.851973",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.106"
@@ -487,7 +487,7 @@
     "p_max": null,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-05-31T08:08:03.602269",
+    "calculation_timestamp": "2026-05-31T10:22:51.850897",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
