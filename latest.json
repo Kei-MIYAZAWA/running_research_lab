@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-06-09T14:16:07.680225",
+    "last_updated": "2026-06-09T17:06:39.962681",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.106"
@@ -186,8 +186,8 @@
         "run": {
           "lthr": 169,
           "max_hr": 187,
-          "threshold_pace": null,
-          "pace_units": null,
+          "threshold_pace": 4.016064,
+          "pace_units": "MINS_KM",
           "ftp": null,
           "ftp_indoor": null
         },
@@ -481,7 +481,7 @@
     "p_max": null,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-06-09T14:16:07.679186",
+    "calculation_timestamp": "2026-06-09T17:06:39.960913",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
