@@ -1,85 +1,10 @@
 {
-  "generated_at": "2026-06-20T23:40:17.264432",
+  "generated_at": "2026-06-21T02:03:28.378079",
   "version": "3.106",
   "script_hash": "f323f1d6d720",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i154804306",
-      "date": "2026-06-06",
-      "type": "Run",
-      "name": "Night \u30e9\u30f3",
-      "interval_summary": [
-        "6x 4m56s 139bpm",
-        "1x 2m54s 146bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "296s@139bpm86rpm",
-          "duration_secs": 297,
-          "avg_hr": 126,
-          "max_hr": 139,
-          "avg_cadence": 86.175865,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "296s@139bpm86rpm",
-          "duration_secs": 298,
-          "avg_hr": 139,
-          "max_hr": 144,
-          "avg_cadence": 86.11745,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "296s@139bpm86rpm",
-          "duration_secs": 298,
-          "avg_hr": 142,
-          "max_hr": 147,
-          "avg_cadence": 86.030205,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "296s@139bpm86rpm",
-          "duration_secs": 284,
-          "avg_hr": 142,
-          "max_hr": 150,
-          "avg_cadence": 85.48943,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "296s@139bpm86rpm",
-          "duration_secs": 305,
-          "avg_hr": 142,
-          "max_hr": 150,
-          "avg_cadence": 86.22295,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "296s@139bpm86rpm",
-          "duration_secs": 295,
-          "avg_hr": 144,
-          "max_hr": 146,
-          "avg_cadence": 86.51865,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "174s@146bpm87rpm",
-          "duration_secs": 174,
-          "avg_hr": 146,
-          "max_hr": 151,
-          "avg_cadence": 86.95977,
-          "zone": 2
-        }
-      ]
-    },
     {
       "activity_id": "i155651529",
       "date": "2026-06-09",
