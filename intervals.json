@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T01:43:26.196087",
+  "generated_at": "2026-09-02T06:25:30.460934",
   "version": "3.106",
   "script_hash": "f323f1d6d720",
   "scan_hours": 72,
@@ -2817,6 +2817,154 @@
           "max_hr": 134,
           "avg_cadence": 83.818184,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i182309316",
+      "date": "2026-09-02",
+      "type": "TrailRun",
+      "name": "Morning \u30c8\u30ec\u30a4\u30eb\u30e9\u30f3",
+      "interval_summary": [
+        "13x 6m22s 140bpm",
+        "1x 8m44s 149bpm",
+        "1x 42s 145bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "382s@140bpm83rpm",
+          "duration_secs": 418,
+          "avg_hr": 130,
+          "max_hr": 140,
+          "avg_cadence": 83.06296,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "382s@140bpm83rpm",
+          "duration_secs": 389,
+          "avg_hr": 140,
+          "max_hr": 146,
+          "avg_cadence": 83.948586,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "382s@140bpm83rpm",
+          "duration_secs": 383,
+          "avg_hr": 143,
+          "max_hr": 148,
+          "avg_cadence": 84.02611,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "382s@140bpm83rpm",
+          "duration_secs": 423,
+          "avg_hr": 147,
+          "max_hr": 156,
+          "avg_cadence": 81.64539,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "382s@140bpm83rpm",
+          "duration_secs": 429,
+          "avg_hr": 150,
+          "max_hr": 157,
+          "avg_cadence": 84.08625,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "524s@149bpm72rpm",
+          "duration_secs": 524,
+          "avg_hr": 149,
+          "max_hr": 161,
+          "avg_cadence": 72.17748,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "382s@140bpm83rpm",
+          "duration_secs": 426,
+          "avg_hr": 124,
+          "max_hr": 136,
+          "avg_cadence": 71.62441,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "382s@140bpm83rpm",
+          "duration_secs": 399,
+          "avg_hr": 142,
+          "max_hr": 157,
+          "avg_cadence": 83.586464,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "382s@140bpm83rpm",
+          "duration_secs": 408,
+          "avg_hr": 144,
+          "max_hr": 161,
+          "avg_cadence": 78.132355,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "382s@140bpm83rpm",
+          "duration_secs": 330,
+          "avg_hr": 134,
+          "max_hr": 140,
+          "avg_cadence": 84.454544,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "382s@140bpm83rpm",
+          "duration_secs": 340,
+          "avg_hr": 138,
+          "max_hr": 144,
+          "avg_cadence": 84.76765,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "382s@140bpm83rpm",
+          "duration_secs": 347,
+          "avg_hr": 141,
+          "max_hr": 146,
+          "avg_cadence": 85.1268,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "382s@140bpm83rpm",
+          "duration_secs": 343,
+          "avg_hr": 143,
+          "max_hr": 151,
+          "avg_cadence": 84.86589,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "382s@140bpm83rpm",
+          "duration_secs": 333,
+          "avg_hr": 143,
+          "max_hr": 151,
+          "avg_cadence": 84.936935,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "42s@145bpm86rpm",
+          "duration_secs": 42,
+          "avg_hr": 145,
+          "max_hr": 146,
+          "avg_cadence": 85.65854,
+          "zone": 2
         }
       ]
     }
