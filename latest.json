@@ -70,7 +70,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-09-07T00:19:03.952340",
+    "last_updated": "2026-09-07T04:57:50.859402",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.106"
@@ -139,7 +139,7 @@
       "unavailable": 4
     },
     "phase_context": {
-      "phase": "Base",
+      "phase": "Overreached",
       "phase_week": 1,
       "amber_threshold": 2,
       "modifier_applied": "default"
@@ -160,9 +160,9 @@
   },
   "history": {
     "available": true,
-    "last_generated": "2026-07-12",
-    "age_days": 57,
-    "total_months": 20,
+    "last_generated": "2026-09-07",
+    "age_days": 0,
+    "total_months": 21,
     "history_confidence": "high"
   },
   "summary": {
@@ -451,15 +451,15 @@
       "note": "No planned workouts in period"
     },
     "phase_detection": {
-      "phase": "Base",
-      "confidence": "medium",
+      "phase": "Overreached",
+      "confidence": "high",
       "reason_codes": [
-        "NO_PLANNED_WORKOUTS"
+        "SAFETY_ACWR_OR_MONOTONY"
       ],
       "basis": {
         "stream_1": {
-          "ctl_slope": null,
-          "acwr_trend": null,
+          "ctl_slope": 14.4,
+          "acwr_trend": "falling",
           "hard_day_pattern": 0.3,
           "weeks_available": 4
         },
@@ -481,9 +481,9 @@
       "dossier_declared": null,
       "dossier_agreement": null
     },
-    "phase_detected": "Base",
+    "phase_detected": "Overreached",
     "phase_triggers": [
-      "NO_PLANNED_WORKOUTS"
+      "SAFETY_ACWR_OR_MONOTONY"
     ],
     "seasonal_context": "Late Season / Transition",
     "benchmark_indoor": {
@@ -506,7 +506,7 @@
     "p_max": null,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-09-07T00:19:03.951332",
+    "calculation_timestamp": "2026-09-07T04:57:50.858423",
     "data_quality": {
       "hrv_data_points": 0,
       "rhr_data_points": 0,
