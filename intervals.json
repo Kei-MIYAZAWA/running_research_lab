@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T00:25:10.757227",
+  "generated_at": "2026-11-21T07:28:53.074852",
   "version": "3.106",
   "script_hash": "f323f1d6d720",
   "scan_hours": 72,
@@ -4732,6 +4732,55 @@
           "avg_hr": 126,
           "max_hr": 127,
           "avg_cadence": 88.07865,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i212687160",
+      "date": "2026-11-21",
+      "type": "Run",
+      "name": "Lunch \u30e9\u30f3",
+      "interval_summary": [
+        "2x 20m8s 128bpm",
+        "1x 8m4s 107bpm",
+        "1x 43m1s 143bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1208s@128bpm87rpm",
+          "duration_secs": 1200,
+          "avg_hr": 127,
+          "max_hr": 140,
+          "avg_cadence": 87.91283,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "484s@107bpm49rpm",
+          "duration_secs": 484,
+          "avg_hr": 107,
+          "max_hr": 136,
+          "avg_cadence": 49.02686,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "2581s@143bpm77rpm",
+          "duration_secs": 2581,
+          "avg_hr": 143,
+          "max_hr": 172,
+          "avg_cadence": 77.302986,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "1208s@128bpm87rpm",
+          "duration_secs": 1216,
+          "avg_hr": 129,
+          "max_hr": 167,
+          "avg_cadence": 86.302635,
           "zone": 1
         }
       ]
